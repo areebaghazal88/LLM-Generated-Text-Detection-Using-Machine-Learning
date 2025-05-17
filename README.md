@@ -101,7 +101,7 @@ pip install -r requirements.txt
 
 ## GUI Interface
 
-A screenshot of the graphical user interface (GUI) is included in this repository as `gui_image.png`.  
+A screenshot of the graphical user interface (GUI) is included in this repository as `image.png`.  
 The GUI provides a user-friendly way to interact with the AI-generated text detection system, allowing users to input text and receive real-time detection results.
 
 
